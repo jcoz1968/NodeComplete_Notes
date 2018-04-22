@@ -3,7 +3,7 @@ var person = {
 };
 
 person.age = 20;
-debugger;
+debugger
 person.name = 'Brenna'
 
 console.log(person);
